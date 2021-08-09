@@ -10,16 +10,16 @@ A simple example using playwright and generate reports with allure.
 * Create .env archive or rename .env.example and set the URL environment correctly. I'm using a brazilian e-commerce https://kabum.com.br
 
 ## Installation
-* Clone this repository
-`$ git clone https://github.com/henriquetmartins/playwright-test-example.git` 
+* Clone this repository  
+`$ git clone https://github.com/henriquetmartins/playwright-test-example.git`  
 
-*  Access the project folder cmd/terminal
-`$ cd playwright-test-example`
+*  Access the project folder cmd/terminal  
+`$ cd playwright-test-example`  
 
-* Install the dependencies 
+* Install the dependencies  
 `$ npm install` 
 
-* Install allure-commandline if you haven't done it yet.
+* Install allure-commandline if you haven't done it yet.  
 `$ npm install -g allure-commandline` 
 
 
@@ -35,14 +35,14 @@ Before do it, you need to set your tag in test name
         // IMPLEMENTATION
     })
 ```
-then use test-tag script and pass you tag in cmd run
-`$ npm run test-tag @foo` 
+then use test-tag script and pass you tag in cmd run   
+`$ npm run test-tag @foo`
 
 
 ## Generate Reports
-After tests run, generate report with allure. 
-`$ allure serve` 
-In playwright.config.js we set configs to make printscreen allways and save trace if test fail. 
+After the tests done, if you want generate a report run in cmd
+`$ allure serve`  
+In playwright.config.js we set configs to make printscreen always and save trace if test fail. 
 
 ## Author
 
