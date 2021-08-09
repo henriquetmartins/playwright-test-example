@@ -7,7 +7,7 @@ A simple example using playwright and generate reports with allure.
 * [Node.js](https://nodejs.org/en/download/)
 * [Allure-Commandline](https://www.npmjs.com/package/allure-commandline)
 * Any Code Editor like [VSCode](https://code.visualstudio.com/)
-* Create .env archive or rename .env.example and set the URL environment correctly, to tests already done. i'm use a brazilian e-commerce https://kabum.com.br
+* Create .env archive or rename .env.example and set the URL environment correctly. I'm using a brazilian e-commerce https://kabum.com.br
 
 ## Installation
 * Clone this repository
