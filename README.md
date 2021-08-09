@@ -51,7 +51,7 @@ In playwright.config.js we set configs to make printscreen allways and save trac
 
 <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/henriquetmartins" width="100px;" alt="Henrique Martins"/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Henrique Martins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henriquemartinsqa/)](https://www.linkedin.com/in/henriquemartinsqa/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Henrique%20Martins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henriquemartinsqa/)](https://www.linkedin.com/in/henriquemartinsqa/) 
 [![Gmail Badge](https://img.shields.io/badge/-henriqueteixeiramartins@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henriqueteixeiramartins@gmail.com)](mailto:henriqueteixeiramartins@gmail.com)
 
 
