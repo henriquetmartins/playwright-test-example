@@ -1,0 +1,19 @@
+{
+  "name": "playwright-allure-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test --project=Chrome",
+    "test-tag": "playwright test --project=Chrome --grep"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@playwright/test": "^1.13.1",
+    "allure-playwright": "^2.0.0-beta.11",
+    "dotenv": "^10.0.0",
+    "playwright": "^1.13.0"
+  }
+}
