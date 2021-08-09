@@ -47,7 +47,8 @@ After tests run, generate report with allure.
 `$ allure serve` 
 In playwright.config.js we set configs to make printscreen allways and save trace if test fail. 
 
-##Author
+## Author
+
 <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/henriquetmartins" width="100px;" alt="Henrique Martins"/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Henrique Martins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henriquemartinsqa/)](https://www.linkedin.com/in/henriquemartinsqa/) 
