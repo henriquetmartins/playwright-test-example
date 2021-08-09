@@ -19,7 +19,7 @@ A simple example using playwright and generate reports with allure.
 * Install the dependencies 
 `$ npm install` 
 
-* Install allure-commandline if you don't yet.
+* Install allure-commandline if you haven't done it yet.
 `$ npm install -g allure-commandline` 
 
 
