@@ -1,10 +1,7 @@
 # Playwright-test-example
 
 ## About
-A simple example code using playwright and generate reports with allure.
-
-
-[TOC]
+A simple example using playwright and generate reports with allure.
 
 ## Pre-requisites
 * [Node.js](https://nodejs.org/en/download/)
